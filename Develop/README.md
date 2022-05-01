@@ -1,9 +1,9 @@
 
-  # Task Master
+  # Testing Repository
 
   ## Description
 
-  * projt
+  * Git hub test repository
 
   ## Table of Content
 
@@ -15,23 +15,23 @@
   
 
   ## Installation
-  * t
+  * testing repository
 
   ## Usage
-  * t
+  * testing repository
 
   ## Credits
-  * t
+  * testing repository
 
   ## Tests
-  * t
+  * testing repository
 
   ## License
-  * MIT
+  * COLUMBIA
 
   
   ## Badges
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/rpliszka1987/taskmaster-pro?style=flat&logo=appveyor)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/rpliszka1987/https://github.com/rpliszka1987/readme-generator?style=flat&logo=appveyor)
   
 
   ## Questions
@@ -39,7 +39,7 @@
   For question please use information below:
 
   * GitHub: [rpliszka1987](https://github.com/rpliszka1987)
-  * Email: [r](mailto:r)
+  * Email: [rob@test.com](mailto:rob@test.com)
   
   [Top](#description)
   
